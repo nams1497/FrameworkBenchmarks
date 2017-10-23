@@ -109,7 +109,7 @@ env:
     - "TESTDIR=Java/wicket"
     - "TESTDIR=Java/beyondj"
     - "TESTDIR=Java/wildfly-ee7"
-    - "TESTDIR=JavaScript/express"
+    - "TESTDIR=JavaScript/express"ab
     - "TESTDIR=JavaScript/hapi"
     - "TESTDIR=JavaScript/koa"
     - "TESTDIR=JavaScript/nodejs"
